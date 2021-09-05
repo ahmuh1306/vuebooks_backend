@@ -1,0 +1,6 @@
+*.code-workspace
+db.sqlite3
+config.json
+*.pyc
+*/*.pyc
+*/*/*.pyc

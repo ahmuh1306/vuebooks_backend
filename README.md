@@ -1,0 +1,1 @@
+This is the backend setup for the VueBooks project. Made with Django REST Framework. 
